@@ -14,18 +14,32 @@ Presentations are also found in the documents directory. The content might be ou
 Current members are:
 
 Bill Duncan
+
 Shane Hemmer
+
 Peter Koch
+
 Andrew Olewnik
+
 Rasmus Larsen
+
 Barry Smith
+
 Aditi Sonal
+
 Barry Smith
+
 Bill Mandrick
+
 Farhad Ameri
+
 Mark Gryparis
+
 Tom Hagedorn
+
 Ian Grosse
+
 Todd Schneider
+
 J. Neil Otte
 
